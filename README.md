@@ -1,4 +1,4 @@
-# notification-position-re-reloaded
+# notification-banner-re-reloaded
 Fork of the original Gnome Shell extension allowing customization of notification banner position and animation properties
 
 ## Installation
