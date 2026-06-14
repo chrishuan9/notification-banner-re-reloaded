@@ -23,12 +23,12 @@ Fork of the original Gnome Shell extension allowing customization of notificatio
 2. Copy to your extensions folder:
 
    ```bash
-   cp -r notification-position-re-reloaded ~/.local/share/gnome-shell/extensions/notification-position-re-reloaded@chrhuang
+   cp -r notification-banner-re-reloaded ~/.local/share/gnome-shell/extensions/notification-banner-re-reloaded@chrhuang
    ```
 3. Log out and back in, then enable the extension:
 
    ```bash
-   gnome-extensions enable notification-position-re-reloaded@chrhuang
+   gnome-extensions enable notification-banner-re-reloaded@chrhuang
    ```
 4. Open the extension preferences and setup the position of the notification banner
 
