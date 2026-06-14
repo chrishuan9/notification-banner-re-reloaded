@@ -5,7 +5,7 @@ Fork of the original Gnome Shell extension allowing customization of notificatio
 
 ### Install from GNOME Extensions
 
-<a href="https://extensions.gnome.org/extension/9419/live-lock-screen/">
+<a href="https://extensions.gnome.org/extension/TBD">
   <img src="https://github.com/user-attachments/assets/d15de748-11b8-4a85-ad34-ec7786547b3c" width="250" alt="Install from GNOME Extensions">
 </a>
 
@@ -18,7 +18,7 @@ Fork of the original Gnome Shell extension allowing customization of notificatio
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/chrishuan9/notification-position-re-reloaded.git
+   git clone https://github.com/chrishuan9/notification-banner-re-reloaded.git
    ```
 2. Copy to your extensions folder:
 
